@@ -137,7 +137,7 @@ Imagine a bustling campus where students are constantly juggling numerous respon
     <div class="image-container">
         <img src="assets/ani.jpeg" alt="Image 1">
         <div class="overlay">
-            <div class="text">Sudhanshu Kumar<br>Student & Coder</div>
+            <div class="text">Aniketa Das<br>Student & Coder</div>
         </div>
     </div>
     <div class="image-container">
